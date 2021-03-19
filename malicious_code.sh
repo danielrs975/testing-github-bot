@@ -1,0 +1,1 @@
+echo "Starting some weird process"
